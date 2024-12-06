@@ -1,0 +1,3 @@
+/home/mathewgomas/HelloWorld/build/CMakeFiles/HelloWorld.dir
+/home/mathewgomas/HelloWorld/build/CMakeFiles/edit_cache.dir
+/home/mathewgomas/HelloWorld/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+# Ignore build files
+/build/
+/CMakeFiles/
+Makefile
+
+# Ignore object files
+*.o
+
+# Ignore dependency files
+*.d
+
+# Ignore SFML library files
+/lib/
+
+# Ignore CMake cache files
+CMakeCache.txt
+
+# Ignore IDE project files
+*.idea/
+*.vscode/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/HelloWorld.dir/link.d CMakeFiles/HelloWorld.dir/src/main.cpp.o CMakeFiles/HelloWorld.dir/src/my_source.cpp.o -o HelloWorld  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1
